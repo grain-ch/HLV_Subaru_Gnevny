@@ -1,7 +1,6 @@
 <RGM009_130mm_B_13.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Subaru_Gnevny_Mod/RSD206_Pr_7/gun/lods/RGM009_130mm_B_13_lod1	</parent>
-	<extent>	6.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Subaru_Gnevny_Mod/RSD206_Pr_7/gun/RGM009_130mm_B_13	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Subaru_Gnevny_Mod/RSD206_Pr_7/gun/RGM009_130mm_B_13.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </RGM009_130mm_B_13.model>
